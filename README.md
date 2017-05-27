@@ -1,5 +1,5 @@
 # best personal websites
-a super objective list of top quality personal websites. To qualify, website must 1) not have a ridiculous loading time 2) not have scrolling lag. Submit suggestions via PR's! 
+A super objective list of top quality personal websites. To be considered, website must 1) not have a ridiculous loading time 2) not have scrolling lag. Submit suggestions via PR's! 
 
 ## best minimalist websites
 * http://zadvorsky.com/
