@@ -22,6 +22,7 @@ A super objective list of top quality personal websites. To be considered, websi
 * http://www.duhaihang.com/
 * https://lhbzr.com/
 * http://www.narrowdesign.com/
+* http://shannonpeng.com/
 
 ## best interactive websites
 hahaha trick question interactive personal websites suck nobody's trying to spend 10 minutes figuring out basic info about you
